@@ -13,6 +13,6 @@
 13. git remote add origin (URL) - to add the repo to your project.
 14. git push origin master - to push the project
 
--> Branches - where the project is being committed, there can be multiple branches, but main or master will act the default branch
--> Master - default branch which is fully functional and is being used by the users
--> Head - pointer that tells you in which branch the commits will take place 
+-> Branches - where the project is being committed, there can be multiple branches, but main or master will act the default branch. <br>
+-> Master - default branch which is fully functional and is being used by the users. <br>
+-> Head - pointer that tells you in which branch the commits will take place. <br>
