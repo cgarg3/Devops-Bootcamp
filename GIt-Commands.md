@@ -7,4 +7,6 @@
 7. git commit -m - to commit the files to the repository
 8. git log - to check the history of the commits made
 9. rm -rf - to delete the file
-10. 
+10. git reset (reference ID) - to remove all the commits above it.
+11. git stash pop - to call up all the previous commands.
+12. git stash clear - delete all the commits
